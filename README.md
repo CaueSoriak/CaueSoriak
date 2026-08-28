@@ -72,25 +72,6 @@ Cada repositório terá sua própria documentação com informações sobre:
 * funcionalidades;
 * aprendizados durante o desenvolvimento.
 
----
-
-## GitHub
-
-<div align="center">
-
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api?username=CaueSoriak&show_icons=true&hide_border=true&bg_color=24292F&title_color=C9D1D9&text_color=8B949E&icon_color=64748B"
-/>
-
-<div align="center">
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaueSoriak&layout=compact&hide_border=true&bg_color=24292F&title_color=C9D1D9&text_color=8B949E"
-/>
-
-</div>
 
 ---
 
