@@ -1,3 +1,4 @@
+<div align="center">
 <img src="caue-soriak.png" alt="SORIAK — Cauê Fermino, estudante de Engenharia de Software e Desenvolvimento Web">
 <br>
 
