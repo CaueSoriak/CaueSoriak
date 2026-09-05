@@ -28,13 +28,7 @@ Meu objetivo é evoluir além das tecnologias e compreender cada vez mais **como
 ## ◆ Stack atual
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=F8FAFC">
-<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css&logoColor=F8FAFC">
-<img src="https://img.shields.io/badge/JavaScript-2563EB?style=for-the-badge&logo=javascript&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F8FAFC">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=F8FAFC">
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" alt="HTML, CSS, JavaScript, Git e GitHub">
 </p>
 
 **Também estudando**
