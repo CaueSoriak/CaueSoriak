@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/soriak-header.svg" width="100%" alt="SORIAK — Cauê Fermino">
+<img src= "Banner Perfil GITHUB.png">
 
 <br>
 
