@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src= "Banner Perfil GITHUB.png">
+<img
+  src="caue-soriak.png"
+  width="100%"
+  alt="SORIAK — Cauê Fermino, estudante de Engenharia de Software e Desenvolvimento Web"
+>
 
 <br>
 
