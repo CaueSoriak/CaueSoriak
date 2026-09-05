@@ -1,90 +1,74 @@
 <div align="center">
 
-# Cauê Soriak
+<img src="./assets/soriak-header.svg" width="100%" alt="SORIAK — Cauê Fermino">
 
-### Engenharia de Software | Desenvolvimento Web
+<br>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1300&color=64748B&center=true&vCenter=true&width=620&lines=Estudante+de+Engenharia+de+Software;HTML+%7C+CSS+%7C+JavaScript;Git+%7C+GitHub;Desenvolvimento+Web"
-alt="Apresentação animada"
-/>
+**Estudante de Engenharia de Software · Desenvolvimento Web**
 
-</div>
+Construindo uma base sólida em desenvolvimento de software,  
+com foco atual em **Web Development** e evolução para **Full Stack & Software Engineering**.
 
----
+<br>
 
-## Sobre
-
-Sou estudante de **Engenharia de Software** e atualmente estou direcionando meus estudos para desenvolvimento web.
-
-Tenho estudado **HTML, CSS, JavaScript, lógica de programação, Git e GitHub**, procurando aplicar o conteúdo em projetos e exercícios práticos.
-
-No momento, meu foco é fortalecer minha base em Front-end e JavaScript. Conforme avançar, pretendo expandir meus conhecimentos para Back-end, APIs e bancos de dados.
-
-Meu portfólio ainda está em construção, então este perfil também serve como registro da minha evolução nos estudos e projetos.
-
----
-
-## Tecnologias
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-24292F?style=for-the-badge&logo=html5&logoColor=C9D1D9" />
-<img src="https://img.shields.io/badge/CSS3-24292F?style=for-the-badge&logo=css3&logoColor=C9D1D9" />
-<img src="https://img.shields.io/badge/JavaScript-24292F?style=for-the-badge&logo=javascript&logoColor=C9D1D9" />
-<img src="https://img.shields.io/badge/Git-24292F?style=for-the-badge&logo=git&logoColor=C9D1D9" />
-<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=C9D1D9" />
+`ESTRUTURA`　→　`KAIROS`　→　`EVOLUÇÃO`
 
 </div>
 
 ---
 
-## Estudos atuais
+## ◆ Sobre
 
-* HTML semântico
-* CSS e responsividade
-* Flexbox
-* JavaScript
-* Lógica de programação
-* Git e GitHub
-* Organização e documentação de projetos
+Olá, sou **Cauê Fermino**.
+
+Atualmente curso **Engenharia de Software** e desenvolvo meus conhecimentos através de estudos e projetos práticos.
+
+Meu objetivo é evoluir além das tecnologias e compreender cada vez mais **como softwares são projetados, construídos, testados e mantidos**.
 
 ---
 
-## Próximos estudos
+## ◆ Stack atual
 
-* JavaScript avançado
-* consumo de APIs
-* bancos de dados
-* desenvolvimento Back-end
-* desenvolvimento Full Stack
+<p align="left">
 
----
+<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=F8FAFC">
+<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css&logoColor=F8FAFC">
+<img src="https://img.shields.io/badge/JavaScript-2563EB?style=for-the-badge&logo=javascript&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F8FAFC">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=F8FAFC">
 
-## Projetos
+</p>
 
-Os projetos serão adicionados conforme avanço nos estudos.
+**Também estudando**
 
-Cada repositório terá sua própria documentação com informações sobre:
-
-* objetivo do projeto;
-* tecnologias utilizadas;
-* funcionalidades;
-* aprendizados durante o desenvolvimento.
-
+`HTML Semântico` · `Acessibilidade` · `Responsividade`  
+`Lógica de Programação` · `Git & Versionamento`
 
 ---
 
-## Contato
+## ◆ Evolução
 
-<div align="center">
+```text
+01  FUNDAMENTOS        ● CURRENT
+    HTML · CSS · JavaScript · Git
 
-<a href="https://www.linkedin.com/in/cau%C3%AA-fermino-61403a224/?skipRedirect=true">
-  <img src="https://img.shields.io/badge/LinkedIn-24292F?style=for-the-badge&logo=linkedin&logoColor=C9D1D9" />
-</a>
+                ↓
 
-<a href="https://github.com/CaueSoriak">
-  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=C9D1D9" />
-</a>
+02  FRONT-END          ◇ NEXT
+    TypeScript · React · Testing
 
-</div>
+                ↓
+
+03  BACK-END
+    Node.js · APIs · SQL · Databases
+
+                ↓
+
+04  FULL STACK
+    Docker · CI/CD · Cloud
+
+                ↓
+
+05  SOFTWARE ENGINEERING
+    Clean Code · SOLID · Architecture
+    DDD · Design Patterns · System Design
